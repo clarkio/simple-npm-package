@@ -1,0 +1,28 @@
+{
+  "name": "@clarkio/simple-npm-package",
+  "version": "0.0.1",
+  "description": "A simple npm package for demonstration purposes and use in a Node.js app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarkio/simple-npm-package.git"
+  },
+  "author": "clarkio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarkio/simple-npm-package/issues"
+  },
+  "homepage": "https://github.com/clarkio/simple-npm-package#readme",
+  "keywords": [
+    "node.js",
+    "javascript",
+    "npm",
+    "package",
+    "example",
+    "demo",
+    "hello world"
+  ]
+}
