@@ -17,6 +17,8 @@ A simple npm package for demonstration purposes and use in a Node.js app.
 
 Follow these steps to publish your own npm package for your own project or using this project.
 
+> This is using the CommonJS module format for use in Node.js apps. You can read more about CommonJS vs. ESM module formats in Node.js on the [LogRocket Blog](https://blog.logrocket.com/commonjs-vs-es-modules-node-js/)
+
 1. [Create a GitHub Repository](https://github.com/new)
 1. Clone the repo locally. Example `git clone https://github.com/clarkio/simple-npm-package.git`
 1. Open your terminal and change directories to the folder of your cloned project. Example `cd simple-npm-package`
